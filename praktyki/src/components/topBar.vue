@@ -11,6 +11,8 @@
         <div class="col menu">Usługi</div>
         <div class="col menu">Referencje</div>
         <div class="col menu">Kontakt</div>
+        <div class="col menu"><img src="/images/icon-search.gif"></div>
+        <!-- <div class="col menu"><input type="text"></div> -->
       </div>
     </div>
   </div>
